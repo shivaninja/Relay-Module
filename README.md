@@ -25,7 +25,7 @@ Compact PCB layout
 
 Designed fully in KiCad (schematic + PCB)
 
-# Pin Description
+## Pin Description
 Control Header
 Pin	Description
 VCC	Supply voltage for relay module
